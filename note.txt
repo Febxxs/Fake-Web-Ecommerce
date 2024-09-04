@@ -1,0 +1,4 @@
+[fetch] get and display data produsct ✔️
+[feature] seacrh category ✔️
+[feature] category ✔️
+[feature] pagination ✔️
