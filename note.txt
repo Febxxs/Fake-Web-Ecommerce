@@ -2,3 +2,5 @@
 [feature] seacrh category ✔️
 [feature] category ✔️
 [feature] pagination ✔️
+[ui] login 
+[ui] register
